@@ -1,0 +1,153 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "ndhOnly": false,
+    "adminOnly": false,
+    "autoSend": true,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminPaseOnly": false,
+    "encryptSt": false,
+    "DASHBOARD": true,
+    "commandDisabled": [
+        100055154154050
+    ],
+    "eventDisabled": [],
+    "UPTIME": 1385294.0292840004,
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": " ",
+    "AMDIN_NAME": "Võ Nhật Đăng",
+    "FACEBOOK_ADMIN": "https://m.me/100055154154050",
+    "ICON": "❤️",
+    "PREFIX": "/",
+    "NDH": [
+        "100055154154050"
+    ],
+    "ADMINBOT": [
+        "61561130424674",
+        "100055154154050",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100064104515427",
+        "100083244550129",
+        "100085515350448",
+        "100027248830437"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "tddzs1tg06",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": ""
+    },
+    "version": "1.2.15",
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        },
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        },
+        "delayUnsend": 60
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "randomname": {
+        "APIKEY": "mi451266190"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "tikinfo": {
+        "apikey": "fOeckmtu"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "huongdan": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "nhantien": {
+        "cooldownTime": 43200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 3,
+        "api_key": "JrT_Rosie_4100115343"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
